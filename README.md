@@ -10,7 +10,7 @@ This repository contains my practice scripts and notebooks based on the open-sou
 
 
 
-\##  Skills \& Modules Covered
+\## Skills \& Modules Covered
 
 
 
@@ -28,13 +28,13 @@ During this training pipeline, I have successfully implemented and practiced the
 
 
 
-\##  Tech Stack Used
+\## Tech Stack Used
+
+
 
 \* \*\*Languages:\*\* Python, R, Bash (Linux)
 
 \* \*\*Platforms:\*\* Google Colab, Jupyter Notebooks, GitHub Desktop
 
 \* \*\*Domain:\*\* Transcriptomics / Functional Genomics
-
-
 
